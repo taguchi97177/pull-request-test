@@ -1,4 +1,6 @@
 'コメント追加
+'add comment2
+'そのたのコメント追加AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 var sortNumber = function (number) {
    number.sort(function (a, b) {
