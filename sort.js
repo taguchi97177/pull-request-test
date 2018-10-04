@@ -1,3 +1,5 @@
+'ƒRƒƒ“ƒg’Ç‰Á
+
 var sortNumber = function (number) {
    number.sort(function (a, b) {
        if (a == b) {
