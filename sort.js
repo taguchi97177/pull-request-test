@@ -1,4 +1,4 @@
-'コメント追加
+﻿'コメント追加
 'add comment2
 'そのたのコメント追加AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 'sortChangeによる修正
@@ -11,7 +11,7 @@
 
 var sortNumber = function (number) {
    number.sort(function (a, b) {
-       if (a == b) {
+       if (a === b) {
            return 0;
        }
        return a < b ? -1 : 1;
