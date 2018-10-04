@@ -3,7 +3,7 @@
 '‚»‚Ì‚½‚ÌƒRƒƒ“ƒg’Ç‰ÁAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 'sortChange‚É‚æ‚éC³
 'change3
-'change3.3
+'change3.3‚³‚ç‚É‚³‚ç‚É’Ç‰Á
 
 
 var sortNumber = function (number) {
