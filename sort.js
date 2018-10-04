@@ -1,4 +1,4 @@
-'コメント追加
+﻿'コメント追加
 'add comment2
 'そのたのコメント追加AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 'sortChangeによる修正
@@ -7,7 +7,7 @@
 'あいうえおかきくけこさしすせそたちつてと
 'なにぬねの
 
-
+'競合テスト
 
 var sortNumber = function (number) {
    number.sort(function (a, b) {
