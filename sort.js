@@ -1,10 +1,12 @@
-'ƒRƒƒ“ƒg’Ç‰Á
+'ã‚³ãƒ¡ãƒ³ãƒˆè¿½åŠ 
 'add comment2
-'‚»‚Ì‚½‚ÌƒRƒƒ“ƒg’Ç‰ÁAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-'sortChange‚É‚æ‚éC³
+'ãã®ãŸã®ã‚³ãƒ¡ãƒ³ãƒˆè¿½åŠ AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+'sortChangeã«ã‚ˆã‚‹ä¿®æ­£
 'change3
-'change3.3‚³‚ç‚É‚³‚ç‚É’Ç‰Á
-'‚ ‚¢‚¤‚¦‚¨‚©‚«‚­‚¯‚±‚³‚µ‚·‚¹‚»‚½‚¿‚Â‚Ä‚Æ
+'change3.3ã•ã‚‰ã«ã•ã‚‰ã«è¿½åŠ 
+'ã‚ã„ã†ãˆãŠã‹ããã‘ã“ã•ã—ã™ã›ããŸã¡ã¤ã¦ã¨
+'ãªã«ã¬ã­ã®
+
 
 
 var sortNumber = function (number) {
