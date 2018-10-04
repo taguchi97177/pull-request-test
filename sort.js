@@ -2,6 +2,8 @@
 'add comment2
 '‚»‚Ì‚½‚ÌƒRƒƒ“ƒg’Ç‰ÁAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 'sortChange‚É‚æ‚éC³
+'change3
+
 
 var sortNumber = function (number) {
    number.sort(function (a, b) {
